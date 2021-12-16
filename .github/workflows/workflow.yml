@@ -1,4 +1,4 @@
-name: React CI S3
+name: React CI
 
 on:
   push:
